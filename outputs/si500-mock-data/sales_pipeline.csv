@@ -1,0 +1,29 @@
+opportunity_id,account_id,studio_name,stage,owner,expected_close_date,probability,deal_value,last_updated
+OPP-0001,ACC-1001,Cedar Bakery,Discovery,Avery Chen,2026-11-14,0.15,900,2026-11-01
+OPP-0002,ACC-1002,Maple Dental,Evaluation,Jordan Lee,2026-11-17,0.35,1325,2026-11-02
+OPP-0003,ACC-1003,Harbor Bikes,Proposal,Morgan Patel,2026-11-20,0.55,1750,2026-11-03
+OPP-0004,ACC-1004,Pine & Co. Legal,Negotiation,Taylor Brooks,2026-11-23,0.75,2175,2026-11-04
+OPP-0005,ACC-1005,Lark Fitness,Closed won,Avery Chen,2026-11-26,1,2600,2026-11-05
+OPP-0006,ACC-1006,Birch Vet Clinic,Closed lost,Jordan Lee,2026-11-29,0,3025,2026-11-06
+OPP-0007,ACC-1007,Tidewater Tours,Discovery,Morgan Patel,2026-12-02,0.15,3450,2026-11-07
+OPP-0008,ACC-1008,Fern Studio,Evaluation,Taylor Brooks,2026-12-05,0.35,3875,2026-11-08
+OPP-0009,ACC-1009,Anchor Barre 1,Proposal,Avery Chen,2026-12-08,0.55,4300,2026-11-09
+OPP-0010,ACC-1010,Anchor Athletics 1,Negotiation,Jordan Lee,2026-12-11,0.75,900,2026-11-10
+OPP-0011,ACC-1011,Anchor Dance 1,Closed won,Morgan Patel,2026-12-14,1,1325,2026-11-01
+OPP-0012,ACC-1012,Anchor Recovery 1,Closed lost,Taylor Brooks,2026-12-17,0,1750,2026-11-02
+OPP-0013,ACC-1013,Anchor Performance 1,Discovery,Avery Chen,2026-12-20,0.15,2175,2026-11-03
+OPP-0014,ACC-1014,Anchor Rowing 1,Evaluation,Jordan Lee,2026-12-23,0.35,2600,2026-11-04
+OPP-0015,ACC-1015,Anchor Climbing 1,Proposal,Morgan Patel,2026-12-26,0.55,3025,2026-11-05
+OPP-0016,ACC-1016,Anchor Boxing 1,Negotiation,Taylor Brooks,2026-12-29,0.75,3450,2026-11-06
+OPP-0017,ACC-1017,Anchor Swim 1,Closed won,Avery Chen,2027-01-01,1,3875,2026-11-07
+OPP-0018,ACC-1018,Bluebird Fitness 1,Closed lost,Jordan Lee,2027-01-04,0,4300,2026-11-08
+OPP-0019,ACC-1019,Bluebird Pilates 1,Discovery,Morgan Patel,2027-01-07,0.15,900,2026-11-09
+OPP-0020,ACC-1020,Bluebird Yoga 1,Evaluation,Taylor Brooks,2027-01-10,0.35,1325,2026-11-10
+OPP-0021,ACC-1021,Bluebird Cycling 1,Proposal,Avery Chen,2027-01-13,0.55,1750,2026-11-01
+OPP-0022,ACC-1022,Bluebird Wellness 1,Negotiation,Jordan Lee,2027-01-16,0.75,2175,2026-11-02
+OPP-0023,ACC-1023,Bluebird Training 1,Closed won,Morgan Patel,2027-01-19,1,2600,2026-11-03
+OPP-0024,ACC-1024,Bluebird Movement 1,Closed lost,Taylor Brooks,2027-01-22,0,3025,2026-11-04
+OPP-0025,ACC-1025,Bluebird Strength 1,Discovery,Avery Chen,2027-01-25,0.15,3450,2026-11-05
+OPP-0026,ACC-1026,Bluebird Barre 1,Evaluation,Jordan Lee,2027-01-28,0.35,3875,2026-11-06
+OPP-0027,ACC-1027,Bluebird Athletics 1,Proposal,Morgan Patel,2027-01-31,0.55,4300,2026-11-07
+OPP-0028,ACC-1028,Bluebird Dance 1,Negotiation,Taylor Brooks,2027-02-03,0.75,900,2026-11-08
